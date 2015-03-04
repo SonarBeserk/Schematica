@@ -18,9 +18,8 @@
  */
 package com.norcode.bukkit.schematica;
 
-import net.minecraft.server.v1_6_R3.NBTTagCompound;
+import net.minecraft.server.v1_8_R1.NBTTagCompound;
 import org.bukkit.Material;
-import org.bukkit.util.BlockVector;
 
 public class ClipboardBlock {
     int type;

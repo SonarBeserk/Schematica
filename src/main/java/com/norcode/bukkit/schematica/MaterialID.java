@@ -20,7 +20,7 @@ package com.norcode.bukkit.schematica;
 
 
 
-import net.minecraft.server.v1_6_R3.*;
+import net.minecraft.server.v1_8_R1.*;
 
 import java.util.HashMap;
 
